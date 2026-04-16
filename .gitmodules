@@ -1,0 +1,3 @@
+[submodule "solicitud_internas"]
+	path = solicitud_internas
+	url = https://github.com/BirgitKramer/Solicitud_internas_160426.git
