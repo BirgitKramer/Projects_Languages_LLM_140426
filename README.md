@@ -9,8 +9,9 @@ Crea la estructura basica para un modulo personalizado de "Gestion de solicitude
 ````
 copia este modulo en la siguiente ubicacion:
 "odoo@192.168.1.76:/opt/odoo/odoo/custom_addons", la clave de accesso es "1234"
+
 ```
 
 ```
-/opt/odoo/odoo/odoo-bin -c /etc/odoo/odoo.conf -i solicitud_intena -d odoo19 --stop-after-init
+/opt/odoo/odoo/odoo-bin -c /etc/odoo/odoo.conf -i solicitud_interna -d odoo19 --stop-after-init
 ```
